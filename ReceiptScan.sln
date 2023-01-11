@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptScan", "ReceiptScan\ReceiptScan.csproj", "{CE4185E5-D146-4EB2-A4AC-7FE15D7874AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4185E5-D146-4EB2-A4AC-7FE15D7874AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4185E5-D146-4EB2-A4AC-7FE15D7874AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4185E5-D146-4EB2-A4AC-7FE15D7874AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4185E5-D146-4EB2-A4AC-7FE15D7874AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35408AA0-F5BC-4369-9F67-759B4A76BEA8}
+	EndGlobalSection
+EndGlobal
